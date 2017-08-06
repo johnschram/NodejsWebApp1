@@ -20,7 +20,7 @@
         from: 'john@primpel.com',
         to: 'jschram@dairylandlabs.com',
         subject: "Test Message",
-        html: "<div style='background-color:blue;'><h1 style='padding:20px; background-color:#333 color:fff;'>Hello John</h1><p>This is a test message from jode js</p></div>",
+        html: "<div style='width:100%; background-color:blue;'><h1 style='padding:20px;'>Hello John</h1></div><p>This is a test message from jode js</p>",
         text: 'This Is a test message'
     });
     console.log('Email Sent');
