@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-web-app1",
+  "name": "BaseSiteNodeJS",
   "version": "0.0.0",
-  "description": "NodejsWebApp1",
-  "main": "server.js",
+  "description": "BaseSiteNodeJS",
+  "main": "main.js",
   "author": {
     "name": "john"
   }
